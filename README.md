@@ -81,3 +81,12 @@ Resultados Esperados:
 •	Passo 5: O usuário é redirecionado para a página inicial.
 
 •	Passo 9: Uma mensagem de erro "Credenciais inválidas" é exibida.
+
+-----
+
+Anexos:
+
+•	Evidence_Report_Pagina_Comunidade_PT.pdf
+
+•	Bug_Report_Pagina_Comunidade_PT.pdf
+
