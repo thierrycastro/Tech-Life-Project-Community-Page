@@ -84,9 +84,6 @@ Resultados Esperados:
 
 -----
 
-
------
-
 Notas Adicionais:
 
 •	Verificar se a interface está conforme o design especificado.
