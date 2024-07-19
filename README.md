@@ -84,6 +84,47 @@ Resultados Esperados:
 
 -----
 
+
+-----
+
+Notas Adicionais:
+
+•	Verificar se a interface está conforme o design especificado.
+
+•	Testar diferentes navegadores (Google Chrome, Mozilla Firefox) para garantir compatibilidade cross-browser.
+
+•	Documentar qualquer comportamento inesperado encontrado durante os testes.
+
+•	Tirar capturas de tela dos resultados esperados e reais para referência.
+
+-----
+
+Ambiente de Teste:
+
+•	Sistema Operacional: Windows 10.
+
+•	Navegadores: Google Chrome - Versão 125.0.6422.176 (x64 bits), Mozila Firefox - Versão 127.0.1 (x64 bits), Microsoft Edge - Versão 126.0.2592.81 (x64 bits).
+
+•	Versão da Aplicação: 1.0.0
+
+-----
+
+Histórico de Alterações:
+
+•	Data: 01/07/2024
+
+    o	Descrição: Caso de teste inicial criado.
+    
+    o	Autor: Thierry Castro
+    
+•	Data: 04/07/2024
+
+    o	Descrição: Adicionadas notas sobre compatibilidade cross-browser.
+    
+    o	Autor: Thierry Castro
+
+-----
+
 Anexos:
 
 •	Evidence_Report_Pagina_Comunidade_PT.pdf
